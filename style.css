@@ -73,6 +73,6 @@ h4{
 @media(max-width:480px){
     .calculator{
         border-radius: 0px;
-        
+        height: max-content;
     }
 }
