@@ -15,6 +15,7 @@
     background: black;
     padding: 15px;
     border-radius: 30px;
+    
 }
 .calculator form input {
     width: 55px;
@@ -76,7 +77,6 @@ h4{
         height: max-content;
     }
     .container{
-        min-height: unset;
         background-color: black;
     }
 }
