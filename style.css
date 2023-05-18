@@ -77,5 +77,6 @@ h4{
     }
     .container{
         min-height: unset;
+        background-color: black;
     }
 }
