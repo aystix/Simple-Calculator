@@ -75,4 +75,7 @@ h4{
         border-radius: 0px;
         height: max-content;
     }
+    .container{
+        min-height: unset;
+    }
 }
